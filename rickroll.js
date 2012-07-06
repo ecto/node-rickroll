@@ -10,3 +10,4 @@ if (!n) {
 for (var i = 0; i < n; i++) {
   exec('open "http://www.youtube.com/watch?v=oHg5SJYRHA0"');
 }
+console.log(' ∆\n∆ ∆');
